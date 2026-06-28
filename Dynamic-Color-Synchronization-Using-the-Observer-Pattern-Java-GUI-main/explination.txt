@@ -1,0 +1,17 @@
+this code is using for update windows dynamically when color selected 
+in radio button 
+
+ther's an interface that all observers classes will implements it,
+with method setSelectedColor(String color),recived color was selected and update
+styleto this color
+
+clorOptions Class this class contain radio buttons with various colors ,
+list type of interface for all windows ,we have add listener and remove listener 
+methods these methods remove and add to the list 
+
+,sendColor method this method making a loop for list and passed aselected 
+color as an argument to notifiy listeners
+when an action happened to the radio it will call send method
+
+
+
