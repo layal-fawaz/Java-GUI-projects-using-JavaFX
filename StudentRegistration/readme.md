@@ -7,6 +7,7 @@ A JavaFX desktop application for managing student records. Built as part of an O
 ## 📋 Overview
 
 This app allows users to manage a list of students through a graphical interface. Each student has an ID, name, GPA, and major. The system supports adding, removing, searching, and sorting students, as well as finding top performers.
+The system is built with object-oriented principles 
 
 ---
 
